@@ -41,9 +41,9 @@
   <h1><strong>Tools and Technologies</strong></h1>
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" title="React" alt="React" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="80" height="20"/>&nbsp;
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="80" height="20"/>&nbsp; -->
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="Python" alt="Python" width="80" height="20"/>&nbsp;
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3" alt="CSS3" width="80" height="20"/>&nbsp;

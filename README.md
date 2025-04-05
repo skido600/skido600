@@ -41,7 +41,7 @@
   <h1><strong>Tools and Technologies</strong></h1>
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" title="React" alt="React" width="80" height="20"/>&nbsp;
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="80" height="20"/>&nbsp; -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="80" height="20"/>&nbsp;
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="80" height="20"/>&nbsp;

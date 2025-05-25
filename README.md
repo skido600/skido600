@@ -50,6 +50,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3" alt="CSS3" width="80" height="20"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" title="Git" alt="Git" width="80" height="20"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" title="Next.js" alt="Next.js" width="80" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" title="Express.js" alt="Express.js" width="90" height="20"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" title="Express.js" alt="Express.js" width="90" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="90" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-E100FF?style=flat&logo=framer&logoColor=white" title="Framer Motion" alt="Framer Motion" width="110" height="20"/>
+
 
 </div>

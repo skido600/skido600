@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botcoder254" alt="botcoder254" /></a> </p>
 <!-- Add profile view count -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=skido600&style=flat-square&color=blue" alt="view count"/>

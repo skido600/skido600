@@ -45,8 +45,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="80" height="20"/>&nbsp;
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="80" height="20"/>&nbsp;
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3" alt="CSS3" width="80" height="20"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" title="Git" alt="Git" width="80" height="20"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="80" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" title="HTML5" alt="HTML5" width="80" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3" alt="CSS3" width="80" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" title="Git" alt="Git" width="80" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" title="Next.js" alt="Next.js" width="80" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" title="Express.js" alt="Express.js" width="90" height="20"/>
+
 </div>

@@ -73,9 +73,75 @@
     🚀 One of my long-term goals is to build products people actually use
   </li>
 </ul>
-<!-- Add a tools and technologies section -->
-<!-- Add a tools and technologies section -->
 
+<h2>🚀 Some Projects I've Built</h2>
+
+<div>
+  <p><strong>🎵 Melodia — Music Streaming Platform</strong></summary>
+
+  <br />
+
+  <p>
+    A music streaming platform I built from the ground up. It handles music
+    uploads, metadata, cover images, authentication, and music playback.
+  </p>
+
+  <p>
+    The backend is built with <strong>Hono.js</strong>, with
+    <strong>PostgreSQL</strong> and <strong>Drizzle ORM</strong> handling the
+    database, while <strong>Cloudinary</strong> is used for media storage.
+  </p>
+
+  <p>
+    <strong>Stack:</strong>
+    Next.js · TypeScript · Hono.js · PostgreSQL · Drizzle ORM · Cloudinary
+  </p>
+
+  <p>
+    🔗
+    <strong>
+      <a href="https://melodai-cyan.vercel.app/" target="_blank">Live Demo</a>
+    </strong>
+    &nbsp;·&nbsp; 💻
+    <strong>
+      <a href="https://github.com/skido600/melodai_with_hono.git" target="_blank">Source Code</a>
+    </strong>
+  </p>
+</div>
+
+<br />
+
+<div>
+  <summary><strong>📚 ReadNext — Book Discovery Platform</strong></summary>
+
+  <br />
+
+  <p>
+    A book discovery and reading platform built to help users find and explore
+    books. It includes a backend API, database integration, and a responsive
+    interface for discovering books.
+  </p>
+
+  <p>
+    The backend is built with <strong>Express.js</strong>, with
+    <strong>PostgreSQL</strong> and <strong>Drizzle ORM</strong> powering the
+    data layer.
+  </p>
+
+  <p>
+    <strong>Stack:</strong>
+    Next.js · TypeScript · Express.js · PostgreSQL · Drizzle ORM
+  </p>
+
+  <p>
+    🔗
+    <strong>
+      <a href="https://read-nest-431c.vercel.app/" target="_blank">Live Demo</a>
+    </strong>
+    &nbsp;·&nbsp; 💻
+  
+  </p>
+</div>
 <div align="center">
   <h1><strong>Tools & Technologies</strong></h1>
 

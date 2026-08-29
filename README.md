@@ -15,11 +15,15 @@
     src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
     width="100%"
     height="80%" />
-  <h1>Hi, I'm Ebisi chinecherem Leonard</h1>
-  <p>
-    <strong>Known as Leowave in the industry</strong>
-  </p>
-  <p>Full-Stack Developer · Builder · Learner</p>
+  <h1>
+    Hi, I'm Ebisi Chinecherem Leonard <br />
+    <span style="font-size: 20px; font-style: italic">
+      <strong>Known as Leowave</strong>
+    </span>
+  </h1>
+  <!-- <h2>
+   
+  </h2> -->
 </div>
 
 <!-- Add a brief introduction -->
@@ -49,14 +53,31 @@
   </li>
   <li style="margin-top: 15px">📫 How to reach me: ebisileonard@gmail.com</li>
 </ul>
+<h2>A Little More About Me</h2>
 
+<ul>
+  <li style="margin-top: 15px">
+    🎓 Computer Science graduate from Tansian University
+  </li>
+
+  <li style="margin-top: 15px">
+    ⚡ I enjoy building and experimenting with new ideas
+  </li>
+  <li style="margin-top: 15px">
+    💻 I enjoy learning how things work under the hood
+  </li>
+
+  <li style="margin-top: 15px">⚽ I love football/efootball</li>
+
+  <li style="margin-top: 15px">
+    🚀 One of my long-term goals is to build products people actually use
+  </li>
+</ul>
 <!-- Add a tools and technologies section -->
 <!-- Add a tools and technologies section -->
 
 <div align="center">
   <h1><strong>Tools & Technologies</strong></h1>
-
-
 
   <!-- Row 1 -->
 
@@ -79,8 +100,6 @@
   <img
     src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"
     height="28" />
-
-
 
   <!-- Row 2 -->
 
@@ -163,10 +182,11 @@
     src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"
     height="28" />
   &nbsp;
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"
-    height="28" />
-  &nbsp;
+</div>
+
+<div align="center">
+  <h2>Currently Exploring</h2>
+
   <img
     src="https://img.shields.io/badge/Embedded_Systems-333333?style=flat&logo=arduino&logoColor=white"
     height="28" />

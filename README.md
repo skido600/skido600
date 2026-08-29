@@ -56,7 +56,7 @@
 <div align="center">
   <h1><strong>Tools & Technologies</strong></h1>
 
-  <br />
+
 
   <!-- Row 1 -->
 
@@ -80,7 +80,7 @@
     src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"
     height="28" />
 
-  <br />
+
 
   <!-- Row 2 -->
 
@@ -108,10 +108,7 @@
     src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"
     height="28" />
 
-  <br />
-
   <!-- Row 3 -->
-
   <img
     src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
     height="28" />
@@ -132,10 +129,7 @@
     src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"
     height="28" />
 
-  <br />
-
   <!-- Row 4 -->
-
   <img
     src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"
     height="28" />
@@ -160,10 +154,7 @@
     src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"
     height="28" />
 
-  <br />
-
   <!-- Row 5 -->
-
   <img
     src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"
     height="28" />

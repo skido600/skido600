@@ -5,18 +5,22 @@
   applications. I like turning ideas into practical products, solving problems
   across the stack, and constantly learning how to build better software.
 </p>
+<p>
+  <strong>Computer Science graduate</strong> <br />
+  Currently looking for <strong>full-time opportunities</strong>
+</p>
 
 <hr style="color: black" />
 
 <h2>Some of my Projects</h2>
 <ul>
   <li style="margin-bottom: 1rem">
-    <a href="https://melodai-cyan.vercel.app/">melodia</a> build with hono js
-    and next js dizzle orm
+    <a href="https://melodai-cyan.vercel.app/">Melodia</a> — Music streaming
+    platform built with Next.js, Hono.js, and Drizzle ORM.
   </li>
   <li style="margin-bottom: 1rem">
-    <a href="https://read-nest-431c.vercel.app/">ReadNext</a> build with express
-    js and next js dizzle orm
+    <a href="https://read-nest-431c.vercel.app/">ReadNext</a> — Book discovery
+    platform built with Next.js, Express.js, and Drizzle ORM.
   </li>
 </ul>
 <hr style="color: black" />
@@ -37,9 +41,13 @@
     <strong>Database & ORM</strong> — PostgreSQL, MongoDB, Drizzle ORM, Neon
   </li>
 
-  <li>
+  <li style="margin-bottom: 15px">
     <strong>Currently Exploring</strong> — Hardware, Electronics, Embedded
     Systems
+  </li>
+  <li style="margin-bottom: 15px">
+    Looking for a mentor or someone experienced in electronics and embedded
+    systems to learn from.
   </li>
 </ul>
 <hr style="color: black" />
@@ -92,10 +100,8 @@
   <li>💼 <a href="YOUR_LINKEDIN_URL">LinkedIn</a></li>
 </ul>
 <hr style="color: black" />
-<blockquote>
-  <p>
-    <strong>"Ambition is priceless."</strong>
-
-    <sub>— Leowave</sub>
-  </p>
+<blockquote style="color: #5a87a1">
+  <strong>"Ambition is priceless."</strong>
+  <br />
+  <small>— Leowave</small>
 </blockquote>

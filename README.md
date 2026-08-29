@@ -1,9 +1,10 @@
 <h1>Hi, I'm Ebisi Chinecherem Leonard 👋</h1>
 
 <p>
-  I'm a Full-Stack & Mobile Developer who enjoys building modern web and mobile
-  applications. I like turning ideas into practical products, solving problems
-  across the stack, and constantly learning how to build better software.
+  I'm a Full-Stack & Mobile Developer with <strong>4+ years of experience</strong>
+  building modern web and mobile applications. I enjoy turning ideas into
+  practical products, solving problems across the stack, and constantly
+  learning how to build better software.
 </p>
 <p>
   <strong>Computer Science graduate</strong> <br />

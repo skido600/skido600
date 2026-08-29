@@ -1,263 +1,101 @@
-<!-- Add social media badges -->
+<h1>Hi, I'm Ebisi Chinecherem Leonard 👋</h1>
 
-<!-- Add profile view count -->
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=skido600&style=flat-square&color=blue"
-    alt="view count" />
-</div>
+<p>
+  I'm a Full-Stack & Mobile Developer who enjoys building modern web and mobile
+  applications. I like turning ideas into practical products, solving problems
+  across the stack, and constantly learning how to build better software.
+</p>
 
-<!-- Add a greeting message -->
+<hr style="color: black" />
 
-<!-- Add a banner image -->
-<div style="margin-top: 20px">
-  <img
-    src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
-    width="100%"
-    height="80%" />
-  <h1>
-    Hi, I'm Ebisi Chinecherem Leonard <br />
-    <span style="font-size: 20px; font-style: italic">
-      <strong>Known as Leowave</strong>
-    </span>
-  </h1>
-  <!-- <h2>
-   
-  </h2> -->
-</div>
-
-<!-- Add a brief introduction -->
+<h2>Some of my Projects</h2>
 <ul>
+  <li style="margin-bottom: 1rem">
+    <a href="https://melodai-cyan.vercel.app/">melodia</a> build with hono js
+    and next js dizzle orm
+  </li>
+  <li style="margin-bottom: 1rem">
+    <a href="https://read-nest-431c.vercel.app/">ReadNext</a> build with express
+    js and next js dizzle orm
+  </li>
+</ul>
+<hr style="color: black" />
+
+<h1>What I Do</h1>
+
+<ul>
+  <li style="margin-bottom: 15px">
+    <strong>Frontend Development</strong> — React, Next.js, React Native,
+    Tailwind CSS, HTML, CSS
+  </li>
+
+  <li style="margin-bottom: 15px">
+    <strong>Backend Development</strong> — Node.js, Express.js, Hono.js,
+  </li>
+
+  <li style="margin-bottom: 15px">
+    <strong>Database & ORM</strong> — PostgreSQL, MongoDB, Drizzle ORM, Neon
+  </li>
+
   <li>
-    I'm a Full-Stack Developer who enjoys building things, breaking them, fixing
-    them, and learning something new along the way.
+    <strong>Currently Exploring</strong> — Hardware, Electronics, Embedded
+    Systems
   </li>
-  <li style="margin-top: 15px">
-    I started out building interfaces with React and gradually moved into the
-    backend. Now I enjoy working across the stack — turning ideas into
-    comlilete, functional products from the frontend to the API and database.
-  </li>
-  <li style="margin-top: 15px">
-    🔭 I’m currently looking for Full-time roles.
-  </li>
-  <li style="margin-top: 15px">
-    🌱 Currently learning more about hardware, electronics, and embedded systems
-    — exploring how software can interact with the physical world.
-  </li>
-  <li style="margin-top: 15px">
-    🤔 Looking to learn from people with experience in hardware, electronics,
-    and embedded systems.
-  </li>
-  <li style="margin-top: 15px">
-    💬 Ask me about javascript, typescript, Web Development.
-  </li>
-  <li style="margin-top: 15px">📫 How to reach me: ebisileonard@gmail.com</li>
 </ul>
-<h2>A Little More About Me</h2>
+<hr style="color: black" />
+<h1>Tech Stack</h1>
+
+<p>
+  <strong>Languages:</strong><br />
+  <code>JavaScript</code> | <code>TypeScript</code>
+</p>
+
+<p>
+  <strong>Frameworks & Libraries:</strong><br />
+  <code>React</code> | <code>Next.js</code> | <code>React Native</code> |
+  <code>Node.js</code> | <code>Express.js</code> | <code>Hono.js</code> |
+  <code>Tailwind CSS</code>
+</p>
+
+<p>
+  <strong>Databases & ORM:</strong><br />
+  <code>PostgreSQL</code> | <code>MongoDB</code> | <code>Drizzle ORM</code> |
+  <code>Neon</code>
+</p>
+
+<p>
+  <strong>Cloud, Auth & Services:</strong><br />
+  <code>Firebase</code> | <code>Clerk</code> | <code>Cloudinary</code> |
+  <code>Vercel</code>
+</p>
+
+<p>
+  <strong>Tools & Platforms:</strong><br />
+  <code>Git</code> | <code>GitHub</code> | <code>Docker</code> |
+  <code>Firebase</code> | <code>Vercel</code> |
+  <code>Postman</code>
+</p>
+
+<p>
+  <strong>Currently Exploring:</strong><br />
+  <code>Embedded Systems</code> | <code>Electronics</code> |
+  <code>Hardware</code>
+</p>
+
+<h1>Let's Connect</h1>
 
 <ul>
-  <li style="margin-top: 15px">
-    🎓 Computer Science graduate from Tansian University
-  </li>
+  <li>📫 <a href="mailto:ebisileonard@gmail.com">Email</a></li>
 
-  <li style="margin-top: 15px">
-    ⚡ I enjoy building and experimenting with new ideas
-  </li>
-  <li style="margin-top: 15px">
-    💻 I enjoy learning how things work under the hood
-  </li>
+  <li>💻 <a href="https://github.com/skido600">GitHub</a></li>
 
-  <li style="margin-top: 15px">⚽ I love football/efootball</li>
-
-  <li style="margin-top: 15px">
-    🚀 One of my long-term goals is to build products people actually use
-  </li>
+  <li>💼 <a href="YOUR_LINKEDIN_URL">LinkedIn</a></li>
 </ul>
-
-<h2>🚀 Some Projects I've Built</h2>
-
-<div>
-  <p><strong>🎵 Melodia — Music Streaming Platform</strong></summary>
-
-  <br />
-
+<hr style="color: black" />
+<blockquote>
   <p>
-    A music streaming platform I built from the ground up. It handles music
-    uploads, metadata, cover images, authentication, and music playback.
+    <strong>"Ambition is priceless."</strong>
+
+    <sub>— Leowave</sub>
   </p>
-
-  <p>
-    The backend is built with <strong>Hono.js</strong>, with
-    <strong>PostgreSQL</strong> and <strong>Drizzle ORM</strong> handling the
-    database, while <strong>Cloudinary</strong> is used for media storage.
-  </p>
-
-  <p>
-    <strong>Stack:</strong>
-    Next.js · TypeScript · Hono.js · PostgreSQL · Drizzle ORM · Cloudinary
-  </p>
-
-  <p>
-    🔗
-    <strong>
-      <a href="https://melodai-cyan.vercel.app/" target="_blank">Live Demo</a>
-    </strong>
-    &nbsp;·&nbsp; 💻
-    <strong>
-      <a href="https://github.com/skido600/melodai_with_hono.git" target="_blank">Source Code</a>
-    </strong>
-  </p>
-</div>
-
-<br />
-
-<div>
-  <summary><strong>📚 ReadNext — Book Discovery Platform</strong></summary>
-
-  <br />
-
-  <p>
-    A book discovery and reading platform built to help users find and explore
-    books. It includes a backend API, database integration, and a responsive
-    interface for discovering books.
-  </p>
-
-  <p>
-    The backend is built with <strong>Express.js</strong>, with
-    <strong>PostgreSQL</strong> and <strong>Drizzle ORM</strong> powering the
-    data layer.
-  </p>
-
-  <p>
-    <strong>Stack:</strong>
-    Next.js · TypeScript · Express.js · PostgreSQL · Drizzle ORM
-  </p>
-
-  <p>
-    🔗
-    <strong>
-      <a href="https://read-nest-431c.vercel.app/" target="_blank">Live Demo</a>
-    </strong>
-    &nbsp;·&nbsp; 💻
-  
-  </p>
-</div>
-<div align="center">
-  <h1><strong>Tools & Technologies</strong></h1>
-
-  <!-- Row 1 -->
-
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"
-    height="28" />
-
-  <!-- Row 2 -->
-
-  <img
-    src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"
-    height="28" />
-
-  <!-- Row 3 -->
-  <img
-    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat&logo=drizzle&logoColor=black"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"
-    height="28" />
-
-  <!-- Row 4 -->
-  <img
-    src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"
-    height="28" />
-
-  <!-- Row 5 -->
-  <img
-    src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"
-    height="28" />
-  &nbsp;
-</div>
-
-<div align="center">
-  <h2>Currently Exploring</h2>
-
-  <img
-    src="https://img.shields.io/badge/Embedded_Systems-333333?style=flat&logo=arduino&logoColor=white"
-    height="28" />
-  &nbsp;
-  <img
-    src="https://img.shields.io/badge/Electronics-333333?style=flat&logo=arduino&logoColor=white"
-    height="28" />
-</div>
+</blockquote>

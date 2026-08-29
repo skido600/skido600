@@ -1,14 +1,7 @@
 
 
 <!-- Add social media badges -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/leo-wave-309637239/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://x.com/Momentum1962?t=gtxbxbdJC5P54Xmr05JvgA&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 
 <!-- Add profile view count -->

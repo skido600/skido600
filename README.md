@@ -21,7 +21,6 @@
   </p>
   <p>Full-Stack Developer · Builder · Learner</p>
 </div>
-<hr style="color: black" />
 
 <!-- Add a brief introduction -->
 <ul>
@@ -56,7 +55,7 @@
 
 <div>
   <h1><strong>Tools and Technologies</strong></h1>
-  <hr style="color: black" />
+
   <!-- Languages -->
   <h3>Languages</h3>
 
@@ -71,8 +70,6 @@
     title="TypeScript"
     alt="TypeScript"
     height="25" />&nbsp;
-
-  <br />
 
   <!-- Frontend -->
   <h3>Frontend</h3>
@@ -113,8 +110,6 @@
     alt="CSS3"
     height="25" />
 
-  <br />
-
   <!-- Backend -->
   <h3>Backend</h3>
 
@@ -135,8 +130,6 @@
     title="Hono"
     alt="Hono"
     height="25" />
-
-  <br />
 
   <!-- Database -->
   <h3>Database & ORM</h3>
@@ -172,8 +165,6 @@
     alt="TanStack Query"
     height="25" />
 
-  <br />
-
   <!-- Auth & Cloud -->
   <h3>Auth, Cloud & Storage</h3>
 
@@ -194,8 +185,6 @@
     title="Firebase"
     alt="Firebase"
     height="25" />
-
-  <br />
 
   <!-- Tools -->
   <h3>Tools</h3>
@@ -223,8 +212,6 @@
     title="Vercel"
     alt="Vercel"
     height="25" />
-
-  <br />
 
   <!-- Currently Exploring -->
   <h3>Currently Exploring</h3>

@@ -97,7 +97,7 @@
 
   <li>💻 <a href="https://github.com/skido600">GitHub</a></li>
 
-  <li>💼 <a href="YOUR_LINKEDIN_URL">LinkedIn</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/leo-wave-309637239/">LinkedIn</a></li>
 </ul>
 <hr style="color: black" />
 <blockquote style="color: #5a87a1">

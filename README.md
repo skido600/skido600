@@ -15,11 +15,11 @@
 <h2>Some of my Projects</h2>
 <ul>
   <li style="margin-bottom: 1rem">
-    <a href="https://melodai-cyan.vercel.app/">Melodia</a> — Music streaming
+    <a href="https://melodai-cyan.vercel.app/"     target="_blank" >Melodia</a> — Music streaming
     platform built with Next.js, Hono.js, and Drizzle ORM.
   </li>
   <li style="margin-bottom: 1rem">
-    <a href="https://read-nest-431c.vercel.app/">ReadNext</a> — Book discovery
+    <a href="https://read-nest-431c.vercel.app/"     target="_blank">ReadNext</a> — Book discovery
     platform built with Next.js, Express.js, and Drizzle ORM.
   </li>
 </ul>
